@@ -1,7 +1,7 @@
 # hello-world
 
 Hello Guys...
-I cant live without soda,coffee and snus
+I cant live without soda,coffee and snus.
 Im a Programming student and living in finland;
 
                      
